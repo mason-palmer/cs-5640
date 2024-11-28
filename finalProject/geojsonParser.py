@@ -19,7 +19,8 @@ for feature in data['features']:
     #load linked image to get dimensions
     image = cv2.imread(os.path.join(folder_path, image_name))
     if image is None:
-        raise ValueError(f"image at {os.path.join(folder_path, image_name)} not found")
+        # raise ValueError(f"image at {os.path.join(folder_path, image_name)} not found")
+        continue
 
     img_height, img_width = image.shape[:2]
 
