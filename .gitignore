@@ -5,3 +5,11 @@
 *xView_train.geojson
 
 *runs
+
+*output_cascade_rcnn
+*yolo_output
+
+*TrainData
+*ValData
+
+__pycache__/

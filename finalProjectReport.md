@@ -44,6 +44,31 @@ header-includes:
 
 \newpage
 
+# Detecting Ships in Satilite Synthetic Apeture Radar Imagery
+
+## Abstract
+
+## Introduction
+
+## Related Work
+
+## Proposed Method 
+
+## Experiments
+
+### Dataset Description
+
+### Baseline Description
+
+### Experimental Evaluation (Include visualizations)
+
+## Conclution
+
+### Findings
+
+### Future Work
+
+## Bibliography
 
 
 <!-- ## Code
