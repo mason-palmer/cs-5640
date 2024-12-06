@@ -41,7 +41,8 @@ def custom_read_image(file_name, format=None):
         grayscale = (vv + vh) / 2
 
         # Expand to a 3-channel format by duplicating the grayscale channel
-        image = np.stack([grayscale, grayscale, grayscale], axis=-1)  # (H, W, 3)
+        image = np.stack([vv, vh, grayscale], axis=-1)  # (H, W, 3)
+
         return image
 
 utils.read_image = custom_read_image
