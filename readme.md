@@ -2,6 +2,7 @@
 
 To run the final versions of the code used in our project, run the following Jupyter Notebooks:
 
-![CS6640_Cloud_Processing.ipynb](./CS6640_Cloud_Processing.ipynb)
-![SAR_Ship_classification_Detectron2.ipynb](./SAR_Ship_classification_Detectron2.ipynb)
+[ CS6640_Cloud_Processing ](./CS6640_Cloud_Processing.ipynb)
+
+[ SAR_Ship_classification_Detectron2 ](./SAR_Ship_classification_Detectron2.ipynb)
 
